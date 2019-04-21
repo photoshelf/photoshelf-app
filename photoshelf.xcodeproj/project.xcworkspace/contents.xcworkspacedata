@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:photoshelf-ios.xcodeproj">
+      location = "self:/Users/duck8823/Repositories/photoshelf-ios/photoshelf.xcodeproj">
    </FileRef>
 </Workspace>
